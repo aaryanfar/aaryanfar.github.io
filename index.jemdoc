@@ -1,0 +1,115 @@
+# jemdoc: menu{MENU.txt}{index.html}, nofooter  
+==Asghar Aryanfar
+
+~~~
+{}{img_left}{images/ProfilePictureBAU.jpg}{alt text}{200}{210}{https://aaryanfar.github.io} \n
+
+Scientific Researcher \n
+G30A Linde Robinson Lab, [http://www.caltech.edu California Institute of Technology] \n
+1200 E California Blvd, Pasadena, CA 91125 \n
+Email: + aryanfar at caltech dot edu + \n 
+
+Assistant Professor \n
+Civil and Mechanical Engineering \n
+D414, [https://bau.edu.tr/ Bahçeşehir University] \n
+4 Çırağan Cd, Beşiktaş, Istanbul, Turkey \n
+Phone: \+90-212- 381-0847 \n
+~~~
+
+
+== Brief Bio 
+I am a Scientific Researcher at [http://www.caltech.edu California Institute of Technology] as well as Assistant Professor at [https://bau.edu.tr/ Bahçeşehir University]. My research mainly is on developing devices and multiphysics methods for energy related applications, including designing state-of-the-art high energy, safe and self-sustaining rechargeable batteries and predicting the corrosion/fracture of materials in extreme states. Here is more on my [http://aaryanfar.github.io/Background.html Background], [http://aaryanfar.github.io/Research.html Research], [http://aaryanfar.github.io/Publications.html Publications] and [http://aaryanfar.github.io/Teaching.html Teaching] experiences as well as my [http://aaryanfar.github.io/Resume_AsgharAryanfar_14Aug19.pdf Resume\/CV]. 
+
+== New Preprints
+
+~~~
+{}{img_left}{images/J12SafeUnsafe.png}{alt text}{200}{140}{http://aaryanfar.github.io/images/J12SafeUnsafe.png} \n
+
+*Asghar Aryanfar*, Michael R. Hoffmann, William A. Goddard III: *+Finite Pulse Waves for Efficient Suppression of Mesoscale Dendrites in Rechargeable Batteries+*, 2019  [https://arxiv.org/pdf/1908.02362.pdf \[ArXiv\] ]
+
+/caption/: Distingushing the safe/unsafe zones based on pulse parameters for controlling the dendrites.
+~~~
+
+~~~
+{}{img_left}{images/J13DispFieldExp.png}{alt text}{200}{100}{http://aaryanfar.github.io/images/J13DispFieldExp.png}
+
+*Asghar Aryanfar*, Irem Şanal, Jaime Marian: *+Novel Percolation-based Measure for Fibre Efficacy in FRC Beams+*, 2019 [http://aaryanfar.github.io/pdfs/FibreMeasure_13Aug19.pdf \[PDF\] ] \n
+
+/caption/: Computing the area of the effective formed cracks and intensity map of the displacement field. 
+~~~
+
+== News
+
+- Oct'19: Talk at [http://quench.forschung.kit.edu/280.php QUENCH Workshop (IAEA)], [https://www.kit.edu/english/ KIT], Karlsruhe, Germany: [QuenchAbstract_7Aug19 Multi-layer Modeling of Zirconium Clad Corrosion during Pre- and Post- Transition Regimes] 
+
+- Oct'19: Talk at Electrochemical Society Conference (ECS), Atlanta, GA: [https://ecs.confex.com/ecs/236/meetingapp.cgi/Paper/125844 Optimal Pulse Charging for the Dendritic Electrodeposition in Mesoscale Electrodes]
+	
+- Sep'19: Talk at European Materials Research Society Conference (EMRS), Warsaw, Poland: [https://www.european-mrs.com/materials-energy-applications-li-ion-na-ion-batteries-supercapacitors-and-beyond-perovskite-type Insights from Pulse-reverse charging for the Inhibition of Branched Evolution of Dendrites]
+
+- Aug'19: Ayse Cetinler will join [https://www.polimi.it/en/ Politecnico di Milano] as a graduate student in Civil Engineering. 
+
+- Jul'19: Paper published in CORROSION SCIENCE (*IF=6.4*): [https://www.sciencedirect.com/science/article/pii/S0010938X19307103 Constriction percolation model for coupled diffusion-reaction corrosion of zirconium in PWR]
+
+- May'19: Talk (sponsored) at [https://www.aub.edu.lb/msfea/me/Pages/default.aspx American University of Beirut Mechanical Engineering].  
+
+- Oct'18: Paper published at JOURNAL OF NUCLEAR MATERIALS (IF=2.6): [https://www.sciencedirect.com/science/article/pii/S0022311517318317 Multilayer interface tracking model of zirconium clad oxidation]
+
+- May'18: BAUBAP Grant awarded: Novel research on energy materials. (*150k\/2years*)
+
+- Jan'18: Paper published at MRS ADVANCES: [https://www.cambridge.org/core/journals/mrs-advances/article/theoretical-pulse-charge-for-the-optimal-inhibition-of-growing-dendrites/667054FA4CA8AB450080989F78B21E29 Theoretical pulse charge for the optimal inhibition of growing dendrites] 
+
+- Dec'17: KOSGEB and BIGG Grants awarded: Fabrication of novel safe battery of higher energy density. (*300K\/2years*)
+
+- Aug'17: Talk (sponsored) at QUENCH workshop (IAEA), KIT, Karlsruhe, Germany: [http://quench.forschung.kit.edu/256.php Novel percolation model in post-transition growth kinetics of heterogeneous zirconium oxide] 
+
+- Jan'17: Publication at  PNAS is featured in [https://www.caltech.edu/about/news/building-better-batteries-53344 Caltech news].
+
+- Jan'17: Paper published at PNAS (*IF=9.6*): [https://www.pnas.org/content/114/1/57.short Enhanced strength and temperature dependence of mechanical properties of Li at small scales and its implications for Li metal anodes] 
+
+- Aug'16: Paper published at CHEMICAL PHYSICS LETTERS (IF=1.9): [https://www.sciencedirect.com/science/article/pii/S0009261416306121 Lithium batteries: Improving solid-electrolyte interphases via underpotential solvent electropolymerization] 
+
+- June'16: Talk at [http://emnmeeting.org/past-conferences/ EMN Conference], Prague, Czech Republic.  
+
+- May'16: Talk (sponsored) at EPFL Mechanical Engineering, Laussane, Switzerland. [https://memento.epfl.ch/event/engineering-electrochemical-materials-for-energy-s/ Engineering Electrochemical Materials for Energy Storage and Sustainability: From Rechargeable Batteries to Power Plants] 
+
+- Apr'16: Talk on [http://www.ans.org/store/item-700402/ International Congress on Advances in Nuclear Power Plants (ICAPP 2016)], San Francisco, CA. 
+
+- Mar'16: Talk (sponsored) at [https://www.tesla.com/ Tesla], Palo Alto, CA.
+
+- Mar'16: Paper published at JOURNAL OF METALS MATERIAS AND MINERALS (IF=2.3): [https://link.springer.com/article/10.1007/s11837-016-2129-1 Integrated Computational Modeling of Water Side Corrosion in Zirconium Metal Clad Under Nominal LWR Operating Conditions] 
+
+- Aug'16: Talk at [https://dmse.mit.edu/people/donald-r-sadoway Sadoway group], MIT, Cambridge, MA.  
+
+- Nov'15: Two Talks (sponsored) at [http://www.apple.com Apple], Cupertino, CA. 
+
+- Oct'15: [https://phys.org/news/2015-10-battery-lifetime.html Interview] with American Institute of Physics. (Cover Image) 
+
+- Sep'15: Talk (sponsored) at [https://me.bilkent.edu.tr/ Bilkent University Mechanical Engineering], Ankara, Turkey. 
+
+- Aug'15: Paper published at JOURNAL OF CHEMICAL PHYSICS (*IF=3.0*): [https://aip.scitation.org/doi/abs/10.1063/1.4930014 Annealing kinetics of electrodeposited lithium dendrites]
+
+- May'15: Talk at [http://ma.ecsdl.org/content/MA2015-01/15/1154.short Electrochemical Society Conference], Chicago, IL: [http://ma.ecsdl.org/content/MA2015-01/15/1154.short Three Dimensional Modeling of Dendrite Growth in Rechargeable Lithium Metal Batteries]
+
+- Feb'15: Paper published at PHYSICAL CHEMISTRY CHEMICAL PHYSICS (*IF=3.6*): [https://pubs.rsc.org/en/content/articlelanding/2015/cp/c4cp05786d/ Thermal relaxation of lithium dendrites]
+
+- Dec'14: Talk at [https://www.mit.edu/~bazant/ Bazant group], MIT, Cambridge, MA.
+
+- Aug'14: Paper published at PHYSICAL CHEMISTRY CHEMICAL PHYSICS (*IF=3.6*): [https://pubs.rsc.org/en/content/articlelanding/2014/cp/c4cp03590a/ Quantifying the dependence of dead lithium losses on the cycling period in lithium metal batteries]
+
+- Jun'14: Talk (sponsored) at [https://www.intel.com/content/www/us/en/homepage.html Intel Corporation], Hillsboro, OR. 
+
+- May'14: Talk at [https://www.electrochem.org/225 Electrochemical Society (ECS) Conference], Orlando, FL: [http://ma.ecsdl.org/content/MA2014-01/8/506.short Investigation of Lithium Dendrite Necking and Formation of Dead Lithium Crystals]
+
+- Apr'14: Talk at [https://www.mrs.org/spring2015 Materials Research Society (MRS) Conference], San Francisco, CA. 
+
+- Mar'14: Paper published at JOURNAL OF PHYSICAL CHEMISTRY LETTERS (*IF= 8.7*): [https://pubs.acs.org/doi/abs/10.1021/jz500207a Dynamics of Lithium Dendrite Growth and Inhibition: Pulse Charging Experiments and Monte Carlo Calculations]
+
+- Jan'14: Paper published at ENVIRONMENTAL SCIENCE & TECHNOLOGY (*IF = 7.2*): [https://pubs.acs.org/doi/abs/10.1021/es404137u Effects of Anodic Potential and Chloride Ion on Overall Reactivity in Electrochemical Reactors Designed for Solar-Powered Wastewater Treatment]
+
+- Dec'13: Talk at [https://www.mrs.org/fall-2013 Materials Research Society (MRS) Conference], Boston, MA: [https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/lithium-dendrite-growth-control-using-local-temperature-variation/9F79966834803594215880924A72737D Lithium Dendrite Growth Control Using Local Temperature Variation]
+
+- May'13: [https://www.youtube.com/watch?v=eWh8N7cuZC4 CNN Interview], featured design in [https://blogs.solidworks.com/teacher/2013/06/reinventing-the-toilet-and-wastewater-treatment-system.html SolidWorks], novel closed-loop sanitation system.
+
+- Oct'12: Talk at Electrochemical Society Meeting (ECS), Honolulu, Hawaii: [http://ma.ecsdl.org/content/MA2012-02/11/1164.short Modeling of State-Dependent Dendritic Growth Batteries with Potentiostatic Cycling]
+
+- Aug'12: *First prize recipient*, Novel self-sustaining sanitation system, Bill and Melinda Gates Foundation: [https://www.fastcompany.com/2680926/the-gates-funded-toilet-of-the-future \[FastCompany\]] [https://www.reuters.com/article/us-gatesfoundation-toilets/bill-gates-foundation-puts-money-on-solar-powered-toilet-idUSBRE87E01K20120815 \[Reuters\]  ] [http://newsfeed.time.com/2012/08/16/gates-foundation-funding-the-toilets-of-the-future/ \[Time\]] [https://www.economist.com/technology-quarterly/2012/08/30/flushed-with-pride \[Economist\]]
