@@ -1,0 +1,240 @@
+# jemdoc: menu{MENU.txt}{index.html}, nofooter  
+== Asghar Aryanfar - Lab of Energy Materials and Sustainability ({{<i><font color="red">LEMS</font></i>}})
+
+~~~
+{}{img_left}{FIgures/ProfilePictureBAU.jpg}{alt text}{255}{265}{https://aaryanfar.github.io} \n
+
+*Asghar Aryanfar* 
+
+Assistant Professor \n
+Faculty of Engineering and Acrchitecture \n
+404 Munib & Angela Masri Institute (x4976) \n
+American University of Beirut [https://www.aub.edu.lb/ {{<img src="https://www.aub.edu.lb/communications/logo/PublishingImages/Slide-1-(b)-concise-logo-top-right.png" style="width:35px;height:15px;">}}] \n
+Riad El-Solh, Beirut, Lebanon [https://en.wikipedia.org/wiki/United_States {{<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg" style="width:25px;height:15px;">}}] 1107-2020
+
+Visiting Researcher \n
+Chemical Engineering / Environmental Science \n
+California Institute of Technology [http://www.caltech.edu {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Seal_of_the_California_Institute_of_Technology.svg" style="width:17px;height:17px;">}}] \n
+E California Blvd, Pasadena, CA [https://en.wikipedia.org/wiki/United_States {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}] 91125
+
+Email: *[aryanfar@caltech.edu aryanfar@caltech.edu]* \n 
+~~~
+	
+~~~
+{Current Openings (Oct'20)}
+
+- Oct'20: 1 PhD position is available on computational multi-scale modeling of the transient behavior in stationary/flow batteries (\~ 70\%) and the fabrication on the lab (\~ 30\%).  
+
+- Sep'20: 3 MSc positions are available for developing predictive and sustainable models for operating and optimizations of rechargeable batteries. Current projects include 3D /percolation/ from grain boundaries, /geometry/ role of the interface , thermodynamics of /electro-dissolution/, and mechanics, physics of /hybrid composites/ and computational development of the /force-chain/ in amorphous microstructures
+~~~
+
+== Brief Bio 
+I am Assistant Professor of Mechanical Engineering at American University of Beirut ([https://www.aub.edu.lb/ AUB]) as well as Visiting Researcher at California Institute of Technology ([http://www.caltech.edu Caltech]). I received the BSc in Civil and Mechanical Engineering (double major, Top 2\%) from Sharif University of Technology, Tehran, Iran in 2009 and the MSc and PhD in Mechanical Engineering from California Institute of Technology, in 2010 and 2015, respectively. Prior to AUB I was Lecturer at in the Faculty of Engineering at Bahçeşehir University, Istanbul, Turkey and before that I was Postdoctoral Associate at [https://www.mse.ucla.edu/ UCLA] Materials Science department from 2015 to 2016. My research has been in developing multi-physics\/chemistry methods and materials for applications in energy storage, conversion and transport. 
+Current projects include analysis and design of state-of-the-art sustainable rechargeable batteries and prediction of heterogeneous cracking behavior for electrolytic membranes exposed to extreme states. Here is more on my [http://aaryanfar.github.io/Research.html Research directions], [http://aaryanfar.github.io/Publications.html Publications] and [http://aaryanfar.github.io/Teaching.html Teaching] experiences as well as my [Materials/Resume_AsgharAryanfar_15Oct20.pdf Resume/CV]. 
+
+== Preprints
+
+
+~~~
+{}{img_left}{Figures/Graphene.png}{alt text}{175}{150}{} \n
+
+
+Oct'20: 
+
+*Asghar Aryanfar*, Sajed Medlej, Ali Tarhini, Ali Tehrani B: +*Extreme Electrical Conductivity of Graphene-Polymer Composites via Developing Elliptic Percolation*+
+
+/caption/ : The percolation pathways through the added particulate graphene to the polymer, enhancing the thermal conductivity.  
+
+~~~
+
+~~~
+{}{img_left}{Figures/SEMGraphene.png}{alt text}{175}{150}{} \n
+
+
+Oct'20: 
+
+*Asghar Aryanfar*, Sajed Medlej, Ali Tarhini, Ali Tehrani B: +*Thermal Conductivity of Graphene-percolated Polymer Composites*+
+
+/caption/ : Binarization in the SEM image of graphene flakes (red) within the PVDF polymer.
+
+~~~
+
+~~~
+{}{img_left}{Figures/Flow.png}{alt text}{175}{150}{} \n
+
+
+Sep'20: 
+
+*Asghar Aryanfar*, Irem Sanal: +*Percolation-based Image Processing for Workability of Concrete with Super Absorbent Polymer*+
+
+/caption/ : Characterization of slump behavior in fresh concrete with super absorbet polymer. 
+
+~~~
+
+~~~
+{}{img_left}{Figures/Control.png}{alt text}{175}{150}{} \n
+
+
+Aug'20: 
+
+*Asghar Aryanfar*, Yara Ghamluche, William A. Goddard III: +*Real-time Control of Dendrites in Rechargeable Batteries using Smart Charging*+
+
+/caption/ : The curvature-controlled relaxation time, confined beween the local and global time-scales. 
+
+~~~
+
+
+== News
+
+- Oct'20: Paper published in the *Computational Materials Science*: [https://www.sciencedirect.com/science/article/pii/S0927025620305504?dgcid=author A Novel Method for Estimating the Charge Equilibrium within the Dendrites of Rechargeable Batteries]
+
+- Sep'20: Paper published in the *Journal of Power Sources*: [https://www.sciencedirect.com/science/article/pii/S0378775320312155 Morphometry of Dendritic Materials in Rechargeable Batteries]
+
+- Aug'20: Talk at Conference for Intelligent and Decision Systems (IDS-2020), Istanbul, Turkey [https://en.wikipedia.org/wiki/Istanbul {{<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" style="width:25px;height:15px;">}}]: (to be published [https://www.springer.com/series/11156 here.]). 
+
+- Jul'20: Awarded Research Grant on COVID-19 treatment.  (*$12,000/yr*)
+
+- Jun'20: Awarded Grant from University Research Board  (*$30,000/2yrs*)
+
+- May'20: Awarded Grant from Masri Institute on Sustainability (*$50,000/2yrs*)
+
+- Apr'20: Outreach travel grant awarded (*$2,500/year*)
+  
+- Mar'20: Paper published in *Structural Concrete*: [https://onlinelibrary.wiley.com/doi/abs/10.1002/suco.201900362 Novel Percolation-based Measure for Fibre Efficacy in Fiber‐reinforced Concrete Beams] 
+
+- Jan'20: Lab establishment proposal awarded (*$60,000*)
+
+- Dec'19: Sajed Medlej joins as a PhD student in Mechanical Engineering. [https://www.sciencedirect.com/science/article/pii/S1352231019305011 Here] a sample of his publication. 
+
+- Nov'19: Book chapter published in *Advances in Materials Science Research*, Volume 39, ISBN: 978-1-53616-176-2: [https://novapublishers.com/shop/advances-in-materials-science-research-volume-39/ Electrochemical Systems: Electrodes and Double Layers]
+
+- Oct'19: Talk at Electrochemical Society Conference (*ECS*), Atlanta, GA [https://en.wikipedia.org/wiki/Atlanta {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}]: [https://ecs.confex.com/ecs/236/meetingapp.cgi/Paper/125844 Optimal Pulse Charging for the Dendritic Electrodeposition in Mesoscale Electrodes]
+
+- Sep'19: Paper published in *Physical Review E*: [https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.042801 Finite Pulse Waves for Efficient Suppression of Mesoscale Dendrites in Rechargeable Batteries]
+
+- Aug'19: Ayse Cetinler joins [https://www.polimi.it/en/ Politecnico di Milano] [https://en.wikipedia.org/wiki/Milan {{<img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" style="width:25px;height:15px;">}}] as a graduate student in Civil Engineering. 
+
+- Jul'19: Paper published in *Corrosion Science*: [https://www.sciencedirect.com/science/article/pii/S0010938X19307103 Constriction percolation model for coupled diffusion-reaction corrosion of zirconium in PWR]
+
+- May'19: Talk (sponsored) at [https://www.aub.edu.lb/msfea/me/Pages/default.aspx American University of Beirut], Mechanical Engineering department, Beirut, Lebanon [https://en.wikipedia.org/wiki/Beirut {{<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg" style="width:25px;height:15px;">}}].  
+
+- Oct'18: Paper published at *Journal of Nuclear Materials*: [https://www.sciencedirect.com/science/article/pii/S0022311517318317 Multilayer interface tracking model of zirconium clad oxidation]
+
+- May'18: BAUBAP Grant awarded: Novel research on energy materials. (*150,000 TL/2yrs*)
+
+- Jan'18: Paper published at *MRS Advances*:
+[https://www.cambridge.org/core/journals/mrs-advances/article/theoretical-pulse-charge-for-the-optimal-inhibition-of-growing-dendrites/667054FA4CA8AB450080989F78B21E29 Theoretical pulse charge for the optimal inhibition of growing dendrites]
+
+- Dec'17: KOSGEB and BIGG Grants awarded: Fabrication of novel safe battery of higher energy density. (*300,000 TL/2yrs*)
+
+- Aug'17: Talk (sponsored) at QUENCH workshop (IAEA), KIT, Karlsruhe, Germany [https://en.wikipedia.org/wiki/Karlsruhe {{<img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" style="width:25px;height:15px;">}}]: [http://quench.forschung.kit.edu/256.php Novel percolation model in post-transition growth kinetics of heterogeneous zirconium oxide] 
+
+- Jan'17: Publication featured in Caltech News: [https://www.caltech.edu/about/news/building-better-batteries-53344 Building Better Batteries].
+
+- Jan'17: Paper published at *Proceedings of National Academy of Science (PNAS)*: [https://www.pnas.org/content/114/1/57.short Enhanced strength and temperature dependence of mechanical properties of Li at small scales and its implications for Li metal anodes] 
+
+- Aug'16: Paper published at *Chemical Physics Letters*: [https://www.sciencedirect.com/science/article/pii/S0009261416306121 Lithium batteries: Improving solid-electrolyte interphases via underpotential solvent electropolymerization] 
+
+- Jun'16: Talk at [http://emnmeeting.org/past-conferences/ EMN Conference], Prague, Czech Republic [https://en.wikipedia.org/wiki/Prague {{<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" style="width:25px;height:15px;">}}].  
+
+- May'16: Talk (sponsored) at Ecole Polytechnique Federale de Lausanne (*EPFL*), Mechanical Engineering department, Laussane, Switzerland[https://en.wikipedia.org/wiki/Lausanne {{<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" style="width:25px;height:15px;">}}]: [https://memento.epfl.ch/event/engineering-electrochemical-materials-for-energy-s/ Engineering Electrochemical Materials for Energy Storage and Sustainability: From Rechargeable Batteries to Power Plants] 
+
+- Apr'16: Talk on International Congress on Advances in Nuclear Power Plants [http://www.ans.org/store/item-700402/ *ICAPP 2016*]), San Francisco, CA [https://en.wikipedia.org/wiki/San_Francisco {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}]. 
+
+- Mar'16: Talk (sponsored) at *Tesla* [https://www.tesla.com/ {{<img src="https://logo-logos.com/wp-content/uploads/2018/02/tesla-motors-logo.jpg" style="width:15px;height:15px;">}}], Palo Alto, CA [https://en.wikipedia.org/wiki/Palo_Alto,_California {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}].
+
+- Mar'16: Paper published at *Journal of Metals Materials and Minerals (JOM)*: [https://link.springer.com/article/10.1007/s11837-016-2129-1 Integrated Computational Modeling of Water Side Corrosion in Zirconium Metal Clad Under Nominal LWR Operating Conditions] 
+
+- Aug'16: Talk at [https://dmse.mit.edu/people/donald-r-sadoway Sadoway group], *Massachusetts Institute of Technology* [http://www.mit.edu/ {{<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" style="width:28px;height:14px;">}}], Cambridge, MA [https://en.wikipedia.org/wiki/Cambridge,_Massachusetts {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}].  
+
+- Nov'15: Two Talks (sponsored) at *Apple* [http://www.apple.com {{<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" style="width:20px;height:20px;">}}], Cupertino, CA [https://en.wikipedia.org/wiki/Cupertino {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}]. 
+
+- Oct'15: Interview on *American Institute of Physics* [https://www.aip.org/ {{<img src="https://aip.scitation.org/pb-assets/images/publishers/aip-site-1481295465017.jpg" style="width:25px;height:15px;">}}]: [https://phys.org/news/2015-10-battery-lifetime.html Extending battery life via off-operation heating]
+
+- Sep'15: Talk (sponsored) at [https://me.bilkent.edu.tr/ Bilkent University] Mechanical Engineering department, Ankara, Turkey [https://en.wikipedia.org/wiki/Turkey {{<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" style="width:25px;height:15px;">}}]. 
+
+- Aug'15: Paper published at *Journal of Chemical Physics*: [https://aip.scitation.org/doi/abs/10.1063/1.4930014 Annealing kinetics of electrodeposited lithium dendrites]\
+
+- May'15: Talk at Electrochemical Society Conference (*ECS*), Chicago, IL: [http://ma.ecsdl.org/content/MA2015-01/15/1154.short Three Dimensional Modeling of Dendrite Growth in Rechargeable Lithium Metal Batteries]
+
+- Feb'15: Paper published at *Physical Chemistry Chemical Physics*: [https://pubs.rsc.org/en/content/articlelanding/2015/cp/c4cp05786d/ Thermal relaxation of lithium dendrites]
+
+- Dec'14: Talk at [https://www.mit.edu/~bazant/ Bazant group], *Massachusetts Institute of Technology* [http://www.mit.edu/ {{<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" style="width:28px;height:14px;">}}], Cambridge, MA [https://en.wikipedia.org/wiki/Cambridge,_Massachusetts {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}].  
+
+- Aug'14: Paper published at *Physical Chemistry Chemical Physics*: [https://pubs.rsc.org/en/content/articlelanding/2014/cp/c4cp03590a/ Quantifying the dependence of dead lithium losses on the cycling period in lithium metal batteries]
+
+- Jun'14: Talk (sponsored) at *Intel Corporation* [https://www.intel.com/content/www/us/en/homepage.html {{<img src="https://1000logos.net/wp-content/uploads/2017/02/Intel-Logo.png" style="width:30px;height:18px;">}}], Hillsboro, OR [https://en.wikipedia.org/wiki/Hillsboro,_Oregon {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}].
+
+- May'14: Talk at Electrochemical Society Conference (*ECS*), Orlando, FL: [http://ma.ecsdl.org/content/MA2014-01/8/506.short Investigation of Lithium Dendrite Necking and Formation of Dead Lithium Crystals]
+
+- Apr'14: Talk at Materials Research Society Conference (*MRS*), San Francisco, CA [https://en.wikipedia.org/wiki/San_Francisco {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}]. 
+
+
+- Mar'14: Paper published at *Journal of Physical Chemistry Letters*: [https://pubs.acs.org/doi/abs/10.1021/jz500207a Dynamics of Lithium Dendrite Growth and Inhibition: Pulse Charging Experiments and Monte Carlo Calculations]
+
+- Jan'14: Paper published at *Environmental Science and Technology*: [https://pubs.acs.org/doi/abs/10.1021/es404137u Effects of Anodic Potential and Chloride Ion on Overall Reactivity in Electrochemical Reactors Designed for Solar-Powered Wastewater Treatment]
+
+- Dec'13: Talk at Materials Research Society Conference (*MRS*), Boston, MA [https://en.wikipedia.org/wiki/Boston {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}]: [https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/lithium-dendrite-growth-control-using-local-temperature-variation/9F79966834803594215880924A72737D Lithium Dendrite Growth Control Using Local Temperature Variation]
+
+- May'13: {{<img src="https://seeklogo.com/images/C/CNN-logo-8DA6D1FC28-seeklogo.com.png" style="width:30px;height:13px;">}} [https://www.youtube.com/watch?v=eWh8N7cuZC4 Interview], featured design in [https://blogs.solidworks.com/teacher/2013/06/reinventing-the-toilet-and-wastewater-treatment-system.html SolidWorks], novel closed-loop sanitation system.
+
+- Oct'12: Talk at Electrochemical Society Conference (*ECS*), Honolulu, Hawaii [https://en.wikipedia.org/wiki/Honolulu {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15px;">}}] : [http://ma.ecsdl.org/content/MA2012-02/11/1164.short Modeling of State-Dependent Dendritic Growth Batteries with Potentiostatic Cycling]
+
+- Aug'12: *First prize recipient*, Novel self-sustaining sanitation system, Bill and Melinda Gates Foundation: [https://www.fastcompany.com/2680926/the-gates-funded-toilet-of-the-future \[FastCompany\]] [https://www.reuters.com/article/us-gatesfoundation-toilets/bill-gates-foundation-puts-money-on-solar-powered-toilet-idUSBRE87E01K20120815 \[Reuters\]  ] [http://newsfeed.time.com/2012/08/16/gates-foundation-funding-the-toilets-of-the-future/ \[Time\]] [https://www.economist.com/technology-quarterly/2012/08/30/flushed-with-pride \[Economist\]]
+
+== Highlights
+
+- *Cover image/Interview*, Journal of Chemical Physics (Oct'15). [https://phys.org/news/2015-10-battery-lifetime.html \[Link1\]] [https://www.chemeurope.com/en/news/154858/extending-a-battery-s-lifetime-with-heat.html \[Link2\] ]
+
+{{<center><img src="https://scx2.b-cdn.net/gfx/news/hires/2015/extendingaba.jpg" style="width:250px;height:250px;"></center>}}
+
+- *CNN Interview/featured design*, SolidWorks: novel closed-loop sanitation system (May'13). [https://www.youtube.com/watch?v=eWh8N7cuZC4 \[Link1\]] [https://blogs.solidworks.com/teacher/2013/06/reinventing-the-toilet-and-wastewater-treatment-system-.html \[Link2\] ] 
+
+{{<center> <iframe width="400" height="300" src="https://www.youtube.com/embed/eWh8N7cuZC4" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>}}
+
+- *Top 2%*, Undergraduate class, Sharif University of Technology, Tehran, Iran (May'09) . 
+
+- *6/15000\+*, National civil engineering olympiad, Iran (Jul'08). 
+
+- *78/500000+*,  National college entrance exam, Iran (Jun'04).
+
+- *1/500000+* ,  National private colleges entrance exam, Iran (May'04). (exempted from military service)
+
+
+== Education 
+
+- *PhD* in Mechanical Engineering, [http://www.caltech.edu California Institute of Technology], Pasadena, CA 91125, 2015. Co-advisors: [https://scholar.google.com/citations?user=KPeon7UAAAAJ&hl=en&oi=ao Prof. Michael Hoffmann (NAE)],
+[https://scholar.google.com/citations?hl=en&user=yMZlErUAAAAJ Prof. William Goddard III (NAS)]
+
+- *MSc* in Mechanical Engineering, [http://www.caltech.edu California Institute of Technology], Pasadena, CA 91125, 2010. Advisor: [http://lapusta.caltech.edu/people/index.html Prof. Nadia Lapusta]
+
+- *BSc* in Mechanical Engineering (*top 5%*), [http://www.en.sharif.edu/ Sharif University of Technology], Tehran, Iran, 2009. Advisor: [http://sharif.ir/~firoozabadi/ Prof. Bahar Firoozabadi]
+
+- *BSc* in Civil Engineering (*top 2%*), [http://www.en.sharif.edu/ Sharif University of Technology], Tehran, Iran, 2008. Advisor: [http://sharif.ir/~ghannad/Professional.html Prof. M. Ali Ghannad]
+
+== Professional Appointments
+
+- Sep'19-present: Assistant Professor, Faculty of Engineering and Architecture, [https://www.aub.edu.lb/ American University of Beirut (AUB)], Lebanon. 
+
+- Sep'16-Aug'19: Assistant Professor, Civil and Mechanical Engineering, [https://bau.edu.tr/ Bahçeşehir University], Istanbul, Turkey
+
+- Jun'15-Aug'16: Postdoctoral Scholar, [https://www.mse.ucla.edu/ Materials Science and Engineering, University of California (UCLA)], Los Angeles, CA, PI: [https://scholar.google.com/citations?user=4c2dd-EAAAAJ&hl=en&oi=ao Prof. Jaime Marian]
+
+- Sep'10-Aug'15: Research Assistant, [http://hoffmann.caltech.edu Linde Robinson Lab] and [http://www.wag.caltech.edu/ Materials Simulation Center], Caltech, Pasadena, CA
+
+- Sep'09-Aug'10: Graduate Fellow, [http://www.caltech.edu Caltech], Pasadena, CA
+
+- Jun'07-Sep'07: Intern, [http://www.farab.com FARAB] hydropower plant Co, Tehran, Iran
+
+- Jun'06-Sep'06: Intern, [https://en.ipo.ir/uploads/Azerbaijan_Steel_Company.pdf Azerbaijan Steel Co.], Mianeh, Iran 
+
+
+== Languages
+English {{<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="width:25px;height:15;">}},
+Azerbaijani (native) {{<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg" style="width:25px;height:15;">}}, 
+Persian {{<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" style="width:25px;height:15;">}},
+Turkish {{<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" style="width:25px;height:15;">}},
+Arabic {{<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg" style="width:25px;height:15;">}}
+
+== Address
+404 Munib and Angela Masri Institute for Engineering and Architecture, American University of Beirut, P.O.Box 11-0236, Riad El-Solh, Beirut, Lebanon 1107-2020 [https://goo.gl/maps/d13HQxty3fczCKxU7 \[Map\]]
