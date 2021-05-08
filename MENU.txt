@@ -1,7 +1,5 @@
+Asghar Aryanfar
 Home [index.html]
-Team [Team.html]
-Research [Research.html]
 Publications [Publications.html]
-Teaching [Teaching.html]
-Resume/CV [Materials/Resume_AsgharAryanfar_15Oct20.pdf]
-Misc [Misc.html]  
+Resume [PDFs/RESUME_ASGHAR_ARYANFAR_6May21.pdf]
+

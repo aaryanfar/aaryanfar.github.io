@@ -9,7 +9,7 @@ table#tlayout {
 body {
 	background: white;
 	font-family: Georgia, serif;
-	padding-bottom: 8px;
+	padding-bottom: 40px;
 	margin: 0;
 }
 
@@ -19,7 +19,7 @@ body {
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 1.2em;
+	font-size: 1.25em;
 	width: auto;
 	white-space: nowrap;
     text-align: left;
@@ -42,7 +42,7 @@ body {
 }
 
 #layout-menu a {
-	line-height: 1.75em;
+	line-height: 1.5em;
 	margin-left: 0.5em;
 }
 
@@ -52,11 +52,11 @@ tt {
 
 pre, tt {
 	font-size: 90%;
-	font-family: monaco, monospace;
+	font-family: Monaco;
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: #343aeb;
 	text-decoration: none;
 }
 
@@ -117,7 +117,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #224b8d;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
